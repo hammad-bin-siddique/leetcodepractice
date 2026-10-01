@@ -20,8 +20,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
