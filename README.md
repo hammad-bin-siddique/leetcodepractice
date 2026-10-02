@@ -19,6 +19,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -28,5 +29,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
