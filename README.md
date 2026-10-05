@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
 ## Two Pointers
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
 ## Linked List
 |  |
