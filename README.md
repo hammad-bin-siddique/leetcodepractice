@@ -49,4 +49,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
