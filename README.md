@@ -63,4 +63,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
