@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,8 +64,25 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0009-palindrome-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
