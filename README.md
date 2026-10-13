@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
