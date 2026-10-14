@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Design
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
