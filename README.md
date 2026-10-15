@@ -42,11 +42,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Design
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
