@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
