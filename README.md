@@ -51,6 +51,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
@@ -80,6 +82,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0009-palindrome-number) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
