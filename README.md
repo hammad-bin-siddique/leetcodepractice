@@ -31,6 +31,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
