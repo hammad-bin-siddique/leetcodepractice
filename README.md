@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 ## Dynamic Programming
