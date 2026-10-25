@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
