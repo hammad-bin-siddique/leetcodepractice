@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
@@ -125,6 +126,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -137,5 +139,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
