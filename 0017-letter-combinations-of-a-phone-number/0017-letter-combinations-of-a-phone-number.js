@@ -3,7 +3,7 @@
  * @return {string[]}
  */
 var letterCombinations = function(digits) {
-    if(digits.lenght === 0) return [];
+    if(digits.length === 0) return [];
     const phoneBoard = {
         1: [], 
         2: ["a", "b", "c"],
