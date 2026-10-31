@@ -7,11 +7,11 @@
  * @return {number}
  */
 var reverse = function(x) {
-    const INT_MAX = 2147483647;   // 2^31 - 1
-    const INT_MIN = -2147483648;  // -2^31
+    const INT_MAX = 2147483647;   
+    const INT_MIN = -2147483648;  
 
-    const maxDiv10 = Math.trunc(INT_MAX / 10); // 214748364
-    const minDiv10 = Math.trunc(INT_MIN / 10); // -214748364
+    const maxDiv10 = Math.trunc(INT_MAX / 10); 
+    const minDiv10 = Math.trunc(INT_MIN / 10); 
 
     let reversed = 0;
 
