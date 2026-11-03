@@ -41,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0092-reverse-linked-list-ii) |
@@ -57,6 +58,7 @@
 | [0002-add-two-numbers](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
