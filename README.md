@@ -21,6 +21,7 @@
 | [0011-container-with-most-water](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0125-valid-palindrome) |
@@ -73,6 +74,7 @@
 | [0014-longest-common-prefix](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
@@ -168,4 +170,20 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
