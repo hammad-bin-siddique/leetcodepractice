@@ -113,6 +113,7 @@
 | [0009-palindrome-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0029-divide-two-integers) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
