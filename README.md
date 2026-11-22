@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0037-sudoku-solver) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hammad-bin-siddique/leetcodepractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -200,6 +202,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0037-sudoku-solver) |
 ## String Matching
 |  |
 | ------- |
@@ -224,10 +227,19 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0037-sudoku-solver) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0018-4sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
