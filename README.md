@@ -99,6 +99,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/hammad-bin-siddique/leetcodepractice/tree/master/0227-basic-calculator-ii) |
